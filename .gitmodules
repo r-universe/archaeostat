@@ -13,6 +13,11 @@
 	url = https://github.com/ArchaeoStat/ArchaeoChron
 	shallow = true
 	registered = true
+[submodule "ArchaeoData"]
+	path = ArchaeoData
+	url = https://github.com/ArchaeoStat/ArchaeoData
+	shallow = true
+	registered = true
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/ArchaeoStat/ArchaeoPhases.dataset
