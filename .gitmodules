@@ -14,7 +14,7 @@
 [submodule "ArchaeoPhases"]
 	path = ArchaeoPhases
 	url = https://github.com/ArchaeoStat/ArchaeoPhases
-	branch = *release
+	branch = v2.0
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/ArchaeoStat/ArchaeoPhases.dataset
